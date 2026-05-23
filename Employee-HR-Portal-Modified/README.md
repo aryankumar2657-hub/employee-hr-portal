@@ -37,13 +37,13 @@ Modern Employee HR Portal designed for efficient employee management with dashbo
 # 📸 Project Screenshots
 
 ## ➕ Add Employee
-![Add Employee](../screenshots/AddEmployee.jpg)
+![Add Employee](screenshots/AddEmployee.jpg)
 
 ## 📊 Dashboard
-![Dashboard](../screenshots/dashboard.jpg)
+![Dashboard](screenshots/dashboard.jpg)
 
 ## 📋 Employee List
-![Employee List](../screenshots/list.jpg)
+![Employee List](screenshots/list.jpg)
 # ▶️ Run Backend
 
 ```bash
